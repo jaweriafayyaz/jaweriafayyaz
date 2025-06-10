@@ -69,9 +69,9 @@ In my academic journey, I also built **Sortify**, a DSA-based sorting visualizer
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-(https://streak-stats.demolab.com?user=jaweriafayyaz&theme=tokyonight&hide_border=true) | ![Most Used Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=jaweriafayyaz&layout=compact&theme=tokyonight) |
+| GitHub Streak | Top Languages |
+|---------------|----------------|
+| ![GitHub Streak](https://streak-stats.demolab.com?user=jaweriafayyaz&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaweriafayyaz&layout=compact&theme=tokyonight) |
 
 ---
 
