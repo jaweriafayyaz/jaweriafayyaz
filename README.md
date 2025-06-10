@@ -72,7 +72,6 @@ In my academic journey, I also built **Sortify**, a DSA-based sorting visualizer
 ## 📊 GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=jaweriafayyaz&theme=tokyonight&hide_border=false&border=true&border_color=FFFFFF" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaweriafayyaz&layout=compact&theme=tokyonight&border_color=FFFFFF" />
 
 ---
 
@@ -82,11 +81,21 @@ In my academic journey, I also built **Sortify**, a DSA-based sorting visualizer
 
 ---
 
-## 🔝 Top Projects
+## 🌟 Project I'm Proud Of
 
 [![Anxiety Detection App](https://img.shields.io/badge/-Anxiety%20Detection%20App-000?style=flat&logo=github)](https://github.com/final-year-project-anxiety-detection/final-year-project-anxiety-detection)  
+💡 A full-stack Urdu-language web app that detects anxiety levels in text using NLP and ML.  
+🧠 Built a 12K+ custom dataset, trained SVM/XGBoost/LightGBM models, and deployed with Flask + React.
+
+---
+
+## 🚀 Featured Projects
+
 [![Sortify - Sorting Visualizer](https://img.shields.io/badge/-Sortify%20Visualizer-000?style=flat&logo=github)](https://github.com/jaweriafayyaz/Sortify)  
-[![Emotion Detection System](https://img.shields.io/badge/-Emotion%20Detection%20System-000?style=flat&logo=github)](https://github.com/jaweriafayyaz/Emotion-Detection-System-DeepFace)
+Visualizes DSA sorting algorithms like Bubble, Merge, and Quick Sort with an interactive UI.
+
+[![Emotion Detection System](https://img.shields.io/badge/-Emotion%20Detection%20System-000?style=flat&logo=github)](https://github.com/jaweriafayyaz/Emotion-Detection-System-DeepFace)  
+Facial emotion recognition tool using DeepFace and OpenCV with real-time webcam input.
 
 ---
 
