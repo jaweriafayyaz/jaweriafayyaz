@@ -9,7 +9,7 @@ I’m a passionate Computer Science student at **Government College University, 
 
 My Final Year Project — an **Urdu-language Anxiety Detection web app** — uses ML/NLP to classify anxiety levels from text. I created a custom dataset of over 12,000 samples, applied NLP preprocessing, trained models (SVM, LightGBM, XGBoost), and deployed the system using Flask with a React frontend.
 
-In my academic journey, I also built **Sortify**, a DSA-based sorting visualizer that demonstrates algorithms like Bubble, Merge, and Quick Sort using real-time UI and educational metrics. I’ve further explored backend logic and database design in projects like a **Cinema Database Management System** using MS SQL Server and advanced SQL queries.
+In my academic journey, I also built **Sortify**, a DSA-based sorting visualizer that demonstrates algorithms like Bubble, Merge, and Quick Sort using real-time UI and educational metrics. I’ve further explored backend logic and database design in projects like a **Cinema Database Management System**, using MS SQL Server and advanced SQL queries.
 ---
 
 ## 🌐 Connect with Me
@@ -59,8 +59,10 @@ In my academic journey, I also built **Sortify**, a DSA-based sorting visualizer
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Jaweria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaweriafayyaz&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=jaweriafayyaz&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaweriafayyaz&layout=compact&theme=tokyonight)
 
 ---
