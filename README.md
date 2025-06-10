@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi 👋, I'm Jaweria Fayyaz  
+🎓 Computer Science Student | Python Developer | ML & NLP Enthusiast | Backend Development (Flask, SQL)
 
-<!--
-**jaweriafayyaz/jaweriafayyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a passionate Computer Science student at **Government College University, Lahore**, with a deep interest in intelligent systems that bridge the gap between human emotion and machine understanding. With strong foundations in Python, ML & NLP, I love solving meaningful problems at the intersection of tech and psychology.
+
+My Final Year Project — an **Urdu-language Anxiety Detection web app** — uses ML/NLP to classify anxiety levels from text. I created a custom dataset of over 12,000 samples, applied NLP preprocessing, trained models (SVM, LightGBM, XGBoost), and deployed the system using Flask with a React frontend.
+
+In my academic journey, I also built **Sortify**, a DSA-based sorting visualizer that demonstrates algorithms like Bubble, Merge, and Quick Sort using real-time UI and educational metrics. I’ve further explored backend logic and database design in projects like a **Cinema Database Management System** using MS SQL Server and advanced SQL queries.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaweria-fayyaz/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/jaweriafayyaz)  
+📧 Email: jaweriafayyaz474@gmail.com
+
+---
+
+## 💻 Tech Stack
+
+### 🖥️ Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📊 Data Science & Machine Learning  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-202020?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)  
+![NLTK](https://img.shields.io/badge/NLTK-85bb65?style=for-the-badge)  
+![Urduhack](https://img.shields.io/badge/Urduhack-blueviolet?style=for-the-badge)
+
+### 🌐 Web Development  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Jaweria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaweriafayyaz&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaweriafayyaz&layout=compact&theme=tokyonight)
+
+---
+
+## ✍️ Random Dev Quote
+
+> “Clean code always looks like it was written by someone who cares.” — *Robert C. Martin*
+
+---
+
+## 🔝 Top Projects
+
+[![Anxiety Detection App](https://img.shields.io/badge/-Anxiety%20Detection%20App-000?style=flat&logo=github)](https://github.com/final-year-project-anxiety-detection/final-year-project-anxiety-detection)  
+[![Sortify - Sorting Visualizer](https://img.shields.io/badge/-Sortify%20Visualizer-000?style=flat&logo=github)](https://github.com/jaweriafayyaz/Sortify)  
+[![Emotion Detection System](https://img.shields.io/badge/-Emotion%20Detection%20System-000?style=flat&logo=github)](https://github.com/jaweriafayyaz/emotion-detection)
+
+---
+
+⚡ *Made with 💻 by Jaweria Fayyaz*
