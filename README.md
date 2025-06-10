@@ -1,4 +1,5 @@
-# Hi 👋, I'm Jaweria Fayyaz  
+# Hi 👋, I'm Jaweria Fayyaz
+
 🎓 Computer Science Student | Python Developer | ML & NLP Enthusiast | Backend Development (Flask, SQL)
 
 ---
@@ -23,7 +24,8 @@ In my academic journey, I also built **Sortify**, a DSA-based sorting visualizer
 
 ## 💻 Tech Stack
 
-**🖥️ Languages:**  
+**🖥️ Languages:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) &nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
@@ -31,7 +33,8 @@ In my academic journey, I also built **Sortify**, a DSA-based sorting visualizer
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**📊 Data Science & ML:**  
+**📊 Data Science & ML:**
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) &nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) &nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) &nbsp;
@@ -40,17 +43,20 @@ In my academic journey, I also built **Sortify**, a DSA-based sorting visualizer
 ![NLTK](https://img.shields.io/badge/NLTK-85bb65?style=for-the-badge) &nbsp;
 ![Urduhack](https://img.shields.io/badge/Urduhack-blueviolet?style=for-the-badge)
 
-**🌐 Web & App Development:**  
+**🌐 Web & App Development:**
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) &nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**🗄️ Databases:**  
+**🗄️ Databases:**
+
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-**🛠 Tools & Platforms:**  
+**🛠 Tools & Platforms:**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) &nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
@@ -62,6 +68,7 @@ In my academic journey, I also built **Sortify**, a DSA-based sorting visualizer
 ---
 
 ## 📊 GitHub Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=jaweriafayyaz&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaweriafayyaz&layout=compact&theme=tokyonight)
 
