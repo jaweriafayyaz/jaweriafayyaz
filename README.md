@@ -1,4 +1,3 @@
-# Hi 👋, I'm Jaweria Fayyaz
 
 <h1 align="center">Hi 👋, I'm Jaweria Fayyaz</h1>
 
