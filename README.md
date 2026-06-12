@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jaweria Fayyaz
 
-🔧 Data Engineer | PySpark • Azure Databricks • Delta Lake • ETL Pipelines | ML & NLP | Generative AI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Data+Engineer+%7C+PySpark+%26+Azure+Databricks;ETL+%2F+ELT+Pipeline+Builder;ML+%26+NLP+Enthusiast;Growing+into+Generative+AI)](https://git.io/typing-svg)
 
 ---
 
@@ -36,14 +36,15 @@ Currently expanding into **Generative AI**, where data engineering and AI inters
 **⚙️ Data Engineering:**
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) &nbsp;
-![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) &nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) &nbsp;
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) &nbsp;
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge) &nbsp;
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) &nbsp;
 ![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) &nbsp;
 ![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) &nbsp;
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) &nbsp;
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) &nbsp;
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) &nbsp;
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) &nbsp;
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **📊 Data Science & ML:**
@@ -83,6 +84,7 @@ Currently expanding into **Generative AI**, where data engineering and AI inters
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) &nbsp;
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white) &nbsp;
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) &nbsp;
 
 ---
 
@@ -108,17 +110,18 @@ Currently expanding into **Generative AI**, where data engineering and AI inters
 
 ## 🚀 Featured Projects
 
-🔒 **Azure Data Lakehouse Pipeline** *(Private — client work)*  
+🔒 **Azure Data Lakehouse Pipeline**  
 End-to-end Medallion Architecture lakehouse on Azure using ADLS Gen2, Delta Lake, ADF, and Synapse Analytics.
 
 [![Ecommerce DBT Analytics](https://img.shields.io/badge/-Ecommerce%20DBT%20Analytics-000?style=flat&logo=github)](https://github.com/jaweriafayyaz/ecommerce-dbt-analytics)  
 Ecommerce analytics pipeline using dbt and Snowflake with staging, marts, and transformations.
 
 [![Anxiety Detection App](https://img.shields.io/badge/-Anxiety%20Detection%20App-000?style=flat&logo=github)](https://github.com/final-year-project-anxiety-detection/final-year-project-anxiety-detection)  
-Full-stack Urdu NLP web app detecting anxiety levels using DistilBERT — **91.31% accuracy**, deployed with Flask + React.
+Full-stack Urdu NLP web app detecting anxiety levels using DistilBERT, **91.31% accuracy**, deployed with Flask + React.
 
 [![Emotion Detection System](https://img.shields.io/badge/-Emotion%20Detection%20System-000?style=flat&logo=github)](https://github.com/jaweriafayyaz/Emotion-Detection-System-DeepFace)  
 Real-time facial emotion recognition using DeepFace and OpenCV with rolling prediction smoothing.
+
 ---
 
 ⚡ *Made with 💻 by Jaweria Fayyaz*
