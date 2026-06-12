@@ -1,7 +1,9 @@
 # Hi 👋, I'm Jaweria Fayyaz
 
+<h1 align="center">Hi 👋, I'm Jaweria Fayyaz</h1>
+
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Data+Engineer+%7C+PySpark+%26+Azure+Databricks;ETL+%2F+ELT+Pipeline+Builder;ML+%26+NLP+Enthusiast;Generative+AI)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Data+Engineer+%7C+PySpark+%26+Azure+Databricks;ETL+%2F+ELT+Pipeline+Builder;ML+%26+NLP+Enthusiast;Growing+into+Generative+AI" alt="Typing SVG" /></a>
 </p>
 
 ---
