@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jaweria Fayyaz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Data+Engineer+%7C+PySpark+%26+Azure+Databricks;ETL+%2F+ELT+Pipeline+Builder;ML+%26+NLP+Enthusiast;Growing+into+Generative+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Data+Engineer+%7C+PySpark+%26+Azure+Databricks;ETL+%2F+ELT+Pipeline+Builder;ML+%26+NLP+Enthusiast;Generative+AI)](https://git.io/typing-svg)
 
 ---
 
