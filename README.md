@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Jaweria Fayyaz</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Data+Engineer+%7C+PySpark+%26+Azure+Databricks;ETL+%2F+ELT+Pipeline+Builder;ML+%26+NLP+Enthusiast;Generative+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Data+Engineer+%7C+PySpark+%26+Azure+Databricks;ETL+%2F+ELT+Pipeline+Builder;ML+%26+NLP+Enthusiast;Generative+AI;RAG;LLM's;Agentic+Ai" alt="Typing SVG" /></a>
 </p>
 
 ---
 
 ## 💫 About Me
 
-I'm a Data Engineer with hands-on production experience building scalable ETL/ELT pipelines and cloud-native analytics on **Azure Databricks**. I specialize in **PySpark, Delta Lake, Microsoft Azure, and Medallion Architecture** across enterprise-scale environments.
+I'm an Ai Data Engineer with hands-on production experience building scalable ETL/ELT pipelines and cloud-native analytics on **Azure Databricks**. I specialize in **PySpark, Delta Lake, Microsoft Azure, and Medallion Architecture** across enterprise-scale environments.
 
 My journey started with a passion for intelligent systems. I built an **Urdu Anxiety Detection web app** using DistilBERT achieving **91.31% accuracy**, because I believe tech should solve real human problems.
 
